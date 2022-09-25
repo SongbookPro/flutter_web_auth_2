@@ -18,7 +18,7 @@ flutter:
         pluginClass: none
 
 dependencies:
-  ffi: ^2.0.1
+  ffi: ">=1.1.2 <3.0.0"
   flutter:
     sdk: flutter
   flutter_web_auth_2_platform_interface: ^1.1.2
